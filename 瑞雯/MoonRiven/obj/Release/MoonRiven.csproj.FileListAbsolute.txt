@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\MoonRiven.exe.config
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\MoonRiven.exe
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\MoonRiven.pdb
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\EloBuddy.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\EloBuddy.SDK.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\mscorlib.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\normidna.nlp
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\normnfc.nlp
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\normnfd.nlp
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\normnfkc.nlp
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\bin\Release\normnfkd.nlp
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\obj\Release\MoonRiven.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\obj\Release\MoonRiven.exe
+C:\Users\Administrator\Desktop\临时文件\EloBuddy-master\MoonRiven\MoonRiven\obj\Release\MoonRiven.pdb
